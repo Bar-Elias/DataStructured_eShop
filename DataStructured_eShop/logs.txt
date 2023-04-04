@@ -1,0 +1,9 @@
+Tue Jan  3 21:30:58 2023 -  New employee added: bar
+Tue Jan  3 21:31:10 2023 -  New employee added: haim
+Tue Jan  3 21:31:24 2023 -  Employee deleted: bar
+Tue Jan  3 21:38:06 2023 -  New employee added: bar
+Tue Jan  3 21:38:14 2023 -  New employee added: ori
+Tue Jan  3 21:38:31 2023 -  New employee added: haim
+Tue Jan  3 21:56:58 2023 -  Employee edited: bar
+Tue Jan  3 21:57:57 2023 -  Employee edited: rahamim
+Tue Apr  4 17:48:42 2023 -  Customer 3 bought item id 6
